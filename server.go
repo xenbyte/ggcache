@@ -2,13 +2,14 @@ package main
 
 import (
 	"fmt"
-	"ggcache/cache"
-	"ggcache/proto"
 	"io"
 
 	"log"
 	"net"
 	"time"
+
+	"github.com/xenbyte/ggcache/cache"
+	"github.com/xenbyte/ggcache/proto"
 )
 
 type ServerOpts struct {

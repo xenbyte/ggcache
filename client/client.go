@@ -4,7 +4,7 @@ import (
 	"context"
 	"net"
 
-	"ggcache/proto"
+	"github.com/xenbyte/ggcache/proto"
 )
 
 type Options struct {

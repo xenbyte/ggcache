@@ -1,4 +1,4 @@
-module ggcache
+module github.com/xenbyte/ggcache
 
 go 1.19
 

@@ -4,9 +4,10 @@ import (
 	"context"
 	"flag"
 	"fmt"
-	"ggcache/cache"
-	"ggcache/client"
 	"log"
+
+	"github.com/xenbyte/ggcache/cache"
+	"github.com/xenbyte/ggcache/client"
 )
 
 func main() {
